@@ -12,7 +12,7 @@ Because this application won't be deployed, you'll also need to create a walkthr
 
 Refer to the [Video Submission Guide](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide) on the Full-Stack Blog for additional guidance on creating a video.
 
-## User Story
+## User Story.
 
 ```md
 AS A social media startup
